@@ -12,6 +12,9 @@ Dataset for Identify Conversation Partner in Egocentric Perspective using Head P
 - Every experiment conducted on June 19 is design for 4 participants.
 
 ## MCSConverse dataset download
+Our labeling rule is: person 1 is fixed as the conversation partner, person 2 is the non-conversation partner, and person 0 is the camera wearer.
+For time synchronization between the data, we asked each participant to press the audio and video record buttons simultaneously during recording; therefore, there may still be time offsets between the videos.
+
 raw video:
 
 20 second clips:
