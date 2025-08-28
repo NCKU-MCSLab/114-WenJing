@@ -1,6 +1,6 @@
 # 114-WenJing
 Dataset for Identify Conversation Partner in Egocentric Perspective using Head Pose, Audio Data and Dialogue Content,Master thesis ,2025
-## Dialogue script naming rule
+## MCSConverse dataset Dialogue script naming rule
 0210_3P1.docx
 - 0210 → Session recorded on February 10.
 - 3P → Three participants took part in the conversation.
@@ -11,7 +11,10 @@ Dataset for Identify Conversation Partner in Egocentric Perspective using Head P
 - [topic]:3 different topics, restaurant ordering, travel planning, business meeting.
 - Every experiment conducted on June 19 is design for 4 participants.
 
+## MCSConverse dataset download
+raw video:
 
+20 second clips:
 
 
 ## Synthetic dataset
