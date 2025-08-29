@@ -31,7 +31,7 @@ You can download the original data from the official project pages:
 
 ## Data Preparing tools
 - Light-ASD  
-Official implementation:[Junhua-Liao/Light-ASD]([https://github.com/shamangary/FSA-Net](https://github.com/Junhua-Liao/Light-ASD))
+Official implementation:[Junhua-Liao/Light-ASD](https://github.com/Junhua-Liao/Light-ASD))
 
 - FSA-Net  
 Official implementation:[shamangary/FSA-Net](https://github.com/shamangary/FSA-Net)  
