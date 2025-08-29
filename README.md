@@ -28,3 +28,10 @@ You can download the original data from the official project pages:
 - Voxceleb2:  
   website:https://mm.kaist.ac.kr/datasets/voxceleb/#downloads (Registration required)
   Huggingface:https://huggingface.co/datasets/ProgramComputer/voxceleb
+
+##Data Preparing
+-FSA-Net
+Official implementation:[shamangary/FSA-Net](https://github.com/shamangary/FSA-Net)
+Pytorch implementation:[omasaht/headpose-fsanet-pytorch](https://github.com/omasaht/headpose-fsanet-pytorch)
+
+-Light-ASD
