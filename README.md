@@ -15,9 +15,9 @@ Dataset for Identify Conversation Partner in Egocentric Perspective using Head P
 Our labeling rule is: person 1 is fixed as the conversation partner, person 2 is the non-conversation partner, and person 0 is the camera wearer.
 For time synchronization between the data, we asked each participant to press the audio and video record buttons simultaneously during recording; therefore, there may still be time offsets between the videos.
 
-raw video:
+raw video:[Google Drive](https://drive.google.com/file/d/1SFDtaYs7wQNubAKjD4pElkVRKCXHE3Gu/view?usp=sharing)
 
-20 second clips:[Google drive](https://drive.google.com/file/d/1zQePzgWJJ2jjT-I9S0nLhv_s6FItGn8W/view?usp=drive_link)
+20 second clips:[Google Drive](https://drive.google.com/file/d/1zQePzgWJJ2jjT-I9S0nLhv_s6FItGn8W/view?usp=sharing)
 
 
 ## Synthetic dataset
