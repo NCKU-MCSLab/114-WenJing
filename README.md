@@ -17,7 +17,7 @@ For time synchronization between the data, we asked each participant to press th
 
 raw video:
 
-20 second clips:
+20 second clips:[Google drive](https://drive.google.com/file/d/1zQePzgWJJ2jjT-I9S0nLhv_s6FItGn8W/view?usp=drive_link)
 
 
 ## Synthetic dataset
